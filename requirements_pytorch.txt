@@ -6,3 +6,4 @@ notebook
 ipykernel
 Pillow
 numpy
+opencv-python
